@@ -7,7 +7,7 @@ Rigorous evidence of program effectiveness has become increasingly important wit
 
 ## What's Included Here
 
-This folder includes the dataset analyzed for this paper as well as the graphics published in the paper. The full paper can be found at  ADD.  
+This folder includes the dataset analyzed for this paper as well as the graphics published in the paper. The full paper can be found at  ....  
 
 ## License to Use These Data
 
