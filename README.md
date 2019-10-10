@@ -12,7 +12,7 @@ This folder includes the dataset analyzed for this paper as well as the graphics
 ```
 Study data available here:
 ```
-- [Developer paper data](public_use_dataset.xlsx)
+- [Data](public_use_dataset.xlsx)
 
 ```
 Study figures:
