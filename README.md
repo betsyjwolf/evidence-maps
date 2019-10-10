@@ -17,6 +17,8 @@ Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2019). Developer Pap
 
 ## Authors
 
+The authors are researchers at the [Center for Research and Reform in Education (CRRE)](https://education.jhu.edu/crre/) at [Johns Hopkins University (JHU)](https://www.jhu.edu/).
+
 * **Betsy Wolf, PhD** - [Faculty Profile](https://education.jhu.edu/directory/rebecca-wolf-phd/)
 
 ## Programs and Packages Used in this Project
