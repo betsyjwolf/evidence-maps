@@ -22,6 +22,17 @@ Wolf, R., Morrison, J., Inns, A., & Risman, K. (2019). Developer Paper Data (Ver
 ## Programs and Packages Used in this Project
 
 * H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+* Hadley Wickham (2011). The Split-Apply-Combine Strategy for Data Analysis. Journal of Statistical
+  Software, 40(1), 1-29. URL http://www.jstatsoft.org/v40/i01/.
+* James Pustejovsky (2019). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with
+  Small-Sample Corrections. R package version 0.3.5.
+  https://CRAN.R-project.org/package=clubSandwich
+* Kathleen M. Coburn and Jack L. Vevea (2019). weightr: Estimating Weight-Function Models for
+  Publication Bias. R package version 2.0.2. https://CRAN.R-project.org/package=weightr
+* R Core Team (2013). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.   URL http://www.R-project.org/.
+* StataCorp. 2019. Stata Statistical Software: Release 16. College Station, TX: StataCorp LLC.
+* Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of
+  Statistical Software, 36(3), 1-48. URL: http://www.jstatsoft.org/v36/i03/
 
 
 
