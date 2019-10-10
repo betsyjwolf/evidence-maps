@@ -12,6 +12,9 @@ This folder includes the dataset analyzed for this paper as well as the graphics
 ![Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
 ](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%201.jpg)
 
+![Box Plots of Effect Sizes for Math Interventions by Developer-Commissioned and Independent Studies
+](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%202.jpg)
+
 ## License to Use These Data
 
 These data are made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
