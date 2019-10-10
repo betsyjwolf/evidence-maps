@@ -9,13 +9,14 @@ Rigorous evidence of program effectiveness has become increasingly important wit
 
 This folder includes the dataset analyzed for this paper as well as the graphics published in the paper. The full paper can be found at  ....  
 
-[Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
-](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%201.jpg)
+* Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
+![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%201.jpg)
 
-[Box Plots of Effect Sizes for Math Interventions by Developer-Commissioned and Independent Studies
-](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%202.jpg)
+* Box Plots of Effect Sizes for Math Interventions by Developer-Commissioned and Independent Studies
+![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%202.jpg)
 
-[Distributions of Empirical Bayes Effect Size Predictions for Developer-Commissioned and Independent Studies](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%203.jpg)
+* Distributions of Empirical Bayes Effect Size Predictions for Developer-Commissioned and Independent Studies
+![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%203.jpg)
 
 ## License to Use These Data
 
