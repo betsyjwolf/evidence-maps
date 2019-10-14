@@ -30,9 +30,7 @@ Study figures:
 
 These data are made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
 
-Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2019). Data for developer paper. Towson, MD: Center for Research and Reform 
-     in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-
-     Independent-Studies
+Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2019). Data for developer paper. Towson, MD: Center for Research and Reform in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies
 
 ## Authors
 
