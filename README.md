@@ -1,5 +1,5 @@
 # Effect-Sizes-in-Developer-and-Independent-Studies
-This repository provides open access to data in the published article, "Average Effect Sizes in Developer-Commissioned and Independent Evaluations" found HERE.
+This repository provides open access to data in the published article, "Average Effect Sizes in Developer-Commissioned and Independent Evaluations" found [HERE] (https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1726537).
 
 ## Abstract
 
@@ -30,14 +30,22 @@ Study figures:
 Code for conducting the meta-analysis:
 ```
 R Code
+
 library(metafor)  
+
 library(clubSandwich)
+
 #Specify the observed covariance matrix: data=name of dataset, vij=observed effect-size-level variances, 
 #.80=assumed correlation among effect sizes within studies
+
 matrix_name <- impute_covariance_matrix(vi = data$vij, cluster = data$studyid, r = .80)
+
 #Run the model: effect_size=variable containing finding-level effect sizes, mods=moderator variables
+
 model_name <- rma.mv(yi=effect_size, V = matrix_name, mods = ~ covarate1 + covariate2 + …, random = ~1 | studyid/findingid, test= "t", data=data, method="REML")
+
 #Produce RVE estimates robust to model misspecification: “CR2”=estimation method
+
 rve_based <- coef_test(model_name, cluster=data$studyid, vcov = "CR2")
 
 ## License to Use These Data
