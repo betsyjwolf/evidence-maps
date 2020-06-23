@@ -26,6 +26,20 @@ Study figures:
 * Distributions of Empirical Bayes Effect Size Predictions for Developer-Commissioned and Independent Studies
 ![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%203.jpg)
 
+```
+Code for conducting the meta-analysis:
+```
+R Code
+library(metafor)  
+library(clubSandwich)
+#Specify the observed covariance matrix: data=name of dataset, vij=observed effect-size-level variances, 
+#.80=assumed correlation among effect sizes within studies
+matrix_name <- impute_covariance_matrix(vi = data$vij, cluster = data$studyid, r = .80)
+#Run the model: effect_size=variable containing finding-level effect sizes, mods=moderator variables
+model_name <- rma.mv(yi=effect_size, V = matrix_name, mods = ~ covarate1 + covariate2 + …, random = ~1 | studyid/findingid, test= "t", data=data, method="REML")
+#Produce RVE estimates robust to model misspecification: “CR2”=estimation method
+rve_based <- coef_test(model_name, cluster=data$studyid, vcov = "CR2")
+
 ## License to Use These Data
 
 These data are made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
