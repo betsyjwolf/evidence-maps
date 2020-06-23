@@ -7,7 +7,7 @@ Rigorous evidence of program effectiveness has become increasingly important wit
 
 ## What's Included Here
 
-This folder includes the dataset analyzed for this paper as well as the graphics published in the paper. 
+This folder includes the study dataset, graphics presented in the article, and the R code for conducting the meta-analysis.
 
 ```
 Study data available here:
