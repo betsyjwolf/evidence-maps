@@ -7,7 +7,7 @@ The What Works Clearinghouse (WWC) seeks to provide educators information about 
 
 ## Data
 
-The open access dataset analyzed in the working paper is available below:
+The open access dataset can be found below:
 
 - [Data](paper_data.csv)
 
