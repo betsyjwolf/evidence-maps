@@ -1,5 +1,5 @@
 # Average Differences in Effect Sizes by Outcome Measure Type
-This repository provides open access to data analyzed in the working paper, "Average differences in effect sizes by outcome measure type" found [HERE](https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1726537).
+This repository provides open access to data analyzed in the working paper, "Average differences in effect sizes by outcome measure type" found [HERE]().
 
 ## Abstract
 
