@@ -19,7 +19,7 @@ Wolf, R., & Jacobson, J. (2021). Average differences in effect sizes by outcome 
 
 ## Authors
 
-The authors are research scientists at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
+The authors are Research Scientists at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
 
 ## Programs and Packages Used in this Project
 
