@@ -10,7 +10,7 @@ The What Works Clearinghouse (WWC) seeks to provide educators information about 
 This repository includes the open access dataset and figures presented in the working paper.
 
 ```
-Study data available here:
+Open access data here:
 ```
 - [Data](public_use_dataset.xlsx)
 
@@ -26,39 +26,15 @@ Study figures:
 * Distributions of Empirical Bayes Effect Size Predictions for Developer-Commissioned and Independent Studies
 ![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%203.jpg)
 
-```
-Code for conducting the meta-analysis:
-```
-R Code
-
-library(metafor)  
-
-library(clubSandwich)
-
-#Specify the observed covariance matrix: data=name of dataset, vij=observed effect-size-level variances, 
-#.80=assumed correlation among effect sizes within studies
-
-matrix_name <- impute_covariance_matrix(vi = data$vij, cluster = data$studyid, r = .80)
-
-#Run the model: effect_size=variable containing finding-level effect sizes, mods=moderator variables
-
-model_name <- rma.mv(yi=effect_size, V = matrix_name, mods = ~ covarate1 + covariate2 + …, random = ~1 | studyid/findingid, test= "t", data=data, method="REML")
-
-#Produce RVE estimates robust to model misspecification: “CR2”=estimation method
-
-rve_based <- coef_test(model_name, cluster=data$studyid, vcov = "CR2")
 
 ## License to Use These Data
 
-These data are made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
-
-Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2019). Data archive for "Differences in average effect sizes in developer-commissioned and independent studies." Towson, MD: Center for Research and Reform in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies
+This work was commissioned by the WWC to both inform and promote discussion about the WWC’s research standards. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
+Wolf, R., & Jacobson, J. (2021). Average differences in effect sizes by outcome measure type (WWC 2021). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance, What Works Clearinghouse. 
 
 ## Authors
 
-The authors are researchers at the [Center for Research and Reform in Education (CRRE)](https://education.jhu.edu/crre/) at [Johns Hopkins University (JHU)](https://www.jhu.edu/).
-
-* **Betsy Wolf, PhD** - [Faculty Profile](https://education.jhu.edu/directory/rebecca-wolf-phd/)
+The authors are research scientists at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
 
 ## Programs and Packages Used in this Project
 
@@ -68,8 +44,6 @@ The authors are researchers at the [Center for Research and Reform in Education 
 * James Pustejovsky (2019). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with
   Small-Sample Corrections. R package version 0.3.5.
   https://CRAN.R-project.org/package=clubSandwich
-* Kathleen M. Coburn and Jack L. Vevea (2019). weightr: Estimating Weight-Function Models for
-  Publication Bias. R package version 2.0.2. https://CRAN.R-project.org/package=weightr
 * R Core Team (2013). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.   URL http://www.R-project.org/
 * StataCorp. 2019. Stata Statistical Software: Release 16. College Station, TX: StataCorp LLC.
 * Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of
