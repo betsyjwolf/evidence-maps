@@ -5,9 +5,9 @@ This repository provides open access to data analyzed in the working paper, "Ave
 
 The What Works Clearinghouse (WWC) seeks to provide educators information about “what works in education.” One challenge in understanding “what works” is that effect sizes may not be comparable across studies, which limits the ability to compare the relative effectiveness of multiple interventions. One factor that consistently relates to the magnitude of effect sizes is the type of outcome measure. This paper uses WWC study data to examine differences in average effect sizes by outcome measure type. Controlling for other factors and using advanced meta-analysis, effect sizes found on researcher and developer measures are substantially larger on average than those found on independent measures not related to the intervention under study or the study authors. One implication of this finding is that the WWC should consider whether findings based on researcher and developer measures should be differentiated from those based on independent measures to meet the evidence needs of all WWC stakeholders. 
 
-## What's Included Here
+## Data
 
-This repository includes the open access dataset analyzed in the working paper.
+The open access dataset analyzed in the working paper can be found:
 
 - [Data](paper_data.csv)
 
