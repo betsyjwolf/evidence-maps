@@ -3,11 +3,11 @@ This repository provides open access to data in the working paper, "Average diff
 
 ## Abstract
 
-Rigorous evidence of program effectiveness has become increasingly important with the 2015 passage of the Every Student Succeeds Act (ESSA). One question that has not yet been fully explored is whether program evaluations carried out or commissioned by developers produce larger effect sizes than evaluations conducted by independent third parties. Using study data from the What Works Clearinghouse, we find evidence of a “developer effect,” where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties. We explore potential reasons for the existence of a “developer effect” and provide evidence that interventions evaluated by developers were not simply more effective than those evaluated by independent parties. We conclude by discussing plausible explanations for this phenomenon as well as providing suggestions for researchers to mitigate potential bias in evaluations moving forward.   
+The What Works Clearinghouse (WWC) seeks to provide educators information about “what works in education.” One challenge in understanding “what works” is that effect sizes may not be comparable across studies, which limits the ability to compare the relative effectiveness of multiple interventions. One factor that consistently relates to the magnitude of effect sizes is the type of outcome measure. This paper uses WWC study data to examine differences in average effect sizes by outcome measure type. Controlling for other factors and using advanced meta-analysis, effect sizes found on researcher and developer measures are substantially larger on average than those found on independent measures not related to the intervention under study or the study authors. One implication of this finding is that the WWC should consider whether findings based on researcher and developer measures should be differentiated from those based on independent measures to meet the evidence needs of all WWC stakeholders. 
 
 ## What's Included Here
 
-This folder includes the study dataset, figures presented in the article, and the R code for conducting the meta-analysis.
+This repository includes the open access dataset and figures presented in the working paper.
 
 ```
 Study data available here:
