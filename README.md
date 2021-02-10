@@ -9,7 +9,7 @@ The What Works Clearinghouse (WWC) seeks to provide educators information about 
 
 This repository includes the open access dataset analyzed in the working paper.
 
-- [Data](public_use_dataset.xlsx)
+- [Data](paper_data.csv)
 
 ## License to Use These Data
 
