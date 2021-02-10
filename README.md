@@ -9,14 +9,12 @@ The What Works Clearinghouse (WWC) seeks to provide educators information about 
 
 This repository includes the open access dataset analyzed in the working paper.
 
-```
-Open access data here:
-```
 - [Data](public_use_dataset.xlsx)
 
 ## License to Use These Data
 
 This work was commissioned by the WWC to both inform and promote discussion about the WWC’s research standards. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
+
 Wolf, R., & Jacobson, J. (2021). Average differences in effect sizes by outcome measure type (WWC 2021). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance, What Works Clearinghouse. 
 
 ## Authors
