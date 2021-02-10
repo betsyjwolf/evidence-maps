@@ -1,5 +1,5 @@
 # Average Differences in Effect Sizes by Outcome Measure Type
-This repository provides open access to data in the working paper, "Average differences in effect sizes by outcome measure type" found [HERE](https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1726537).
+This repository provides open access to data analyzed in the working paper, "Average differences in effect sizes by outcome measure type" found [HERE](https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1726537).
 
 ## Abstract
 
@@ -7,25 +7,12 @@ The What Works Clearinghouse (WWC) seeks to provide educators information about 
 
 ## What's Included Here
 
-This repository includes the open access dataset and figures presented in the working paper.
+This repository includes the open access dataset analyzed in the working paper.
 
 ```
 Open access data here:
 ```
 - [Data](public_use_dataset.xlsx)
-
-```
-Study figures:
-```
-* Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
-![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%201.jpg)
-
-* Box Plots of Effect Sizes for Math Interventions by Developer-Commissioned and Independent Studies
-![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%202.jpg)
-
-* Distributions of Empirical Bayes Effect Size Predictions for Developer-Commissioned and Independent Studies
-![](https://github.com/betsyjwolf/Effect-Sizes-in-Developer-and-Independent-Studies/blob/master/Figure%203.jpg)
-
 
 ## License to Use These Data
 
