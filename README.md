@@ -24,8 +24,6 @@ The author is a Research Scientist at the [What Works Clearinghouse](https://ies
 ## Programs and Packages Used in this Project
 
 * H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
-* Hadley Wickham (2011). The Split-Apply-Combine Strategy for Data Analysis. Journal of Statistical
-  Software, 40(1), 1-29. URL http://www.jstatsoft.org/v40/i01/
 * James Pustejovsky (2019). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with
   Small-Sample Corrections. R package version 0.3.5.
   https://CRAN.R-project.org/package=clubSandwich
