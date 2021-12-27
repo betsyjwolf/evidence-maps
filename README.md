@@ -13,8 +13,8 @@ The open access dataset can be found below:
 
 ## Graph
 
-* Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
-![](https://github.com/betsyjwolf/Average-Effect-Sizes-by-Outcome-Measure_Type/blob/master/Figure%201.jpg)
+* Distributions of the empirical Bayes effect size predictions by topic area
+![](https://github.com/betsyjwolf/Average-Effect-Sizes-by-Outcome-Measure_Type/blob/master/wp_meta2_v2.png)
 
 ## License to Use These Data
 
