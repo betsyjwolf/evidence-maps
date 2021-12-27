@@ -13,7 +13,7 @@ The open access dataset can be found below:
 
 ## Graph
 
-* Distributions of the empirical Bayes effect size predictions by topic area
+* Distributions of the empirical Bayes effect size predictions by outcome measure type and topic area
 ![](https://github.com/betsyjwolf/Average-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta2_v2.png)
 
 ## License to Use These Data
