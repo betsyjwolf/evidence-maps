@@ -11,6 +11,11 @@ The open access dataset can be found below:
 
 - [Data](paper_data.csv)
 
+## Graph
+
+* Box Plots of Effect Sizes for English Language Arts (ELA) Interventions by Developer-Commissioned and Independent Studies
+![](https://github.com/betsyjwolf/Average-Effect-Sizes-by-Outcome-Measure_Type/blob/master/Figure%201.jpg)
+
 ## License to Use These Data
 
 This work was commissioned by the WWC to both inform and promote discussion about the WWC’s research standards. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
