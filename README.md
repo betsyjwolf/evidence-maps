@@ -3,24 +3,26 @@ This repository provides open access to data analyzed in the paper, "Making sens
 
 ## Abstract
 
-The What Works Clearinghouse (WWC) seeks to provide educators information about “what works in education.” One challenge in understanding “what works” is that effect sizes may not be comparable across studies, which limits the ability to compare the relative effectiveness of multiple interventions. One factor that consistently relates to the magnitude of effect sizes is the type of outcome measure. This paper uses WWC study data to examine differences in average effect sizes by outcome measure type. Controlling for other factors and using advanced meta-analysis, effect sizes found on researcher and developer measures are substantially larger on average than those found on independent measures not related to the intervention under study or the study authors. One implication of this finding is that the WWC should consider whether findings based on researcher and developer measures should be differentiated from those based on independent measures to meet the evidence needs of all WWC stakeholders. 
+One challenge in understanding “what works” in education is that effect sizes may not be comparable across studies, which presents a problem for practitioners and policymakers who are trying to use research to select educational interventions. One factor that consistently relates to the magnitude of effect sizes is the type of outcome measure. This paper uses study data from the What Works Clearinghouse to examine differences in average effect sizes by outcome measure type. Using advanced meta-analysis and controlling for study quality and implementation, average effect sizes identified on researcher and developer measures are substantially larger than those identified on independent measures not related to the study authors or intervention developers. This study Results call into question conventional theories about why effect sizes are larger on researcher and developer measures. The study concludes that outcome measure type cannot be ignored in making sense about education interventions.
 
 ## Data
 
 The open access dataset can be found below:
 
-- [Data](paper_data.csv)
+- [Data]
 
 
 ## License to Use These Data
 
 This work was commissioned by the WWC to both inform and promote discussion about the WWC’s research standards. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
 
-Wolf, R. (2021). Average differences in effect sizes by outcome measure type. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance, What Works Clearinghouse. 
+Wolf, R., & Harbatkin, E. (under review). Making sense of effect sizes: Systematic differences in intervention effect sizes by outcome measure type. 
 
 ## Authors
 
-The author is a Research Scientist at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
+Wolf is a Research Scientist at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
+Harbatkin is a Postdoctoral Research Fellow at [Michigan State University] (https://education.msu.edu/people/harbatkin-erica/).
+Both authors like cats.
 
 ## Programs and Packages Used in this Project
 
