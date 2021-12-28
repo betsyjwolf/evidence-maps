@@ -32,7 +32,7 @@ Both authors have cats.
 
 * Coburn, K., & Vevea, J. (2019). weightr: Estimating weight-function models for publication bias. R package version 2.0.2. Retrieved from https://CRAN.R-project.org/package=weightr
 * Pustejovsky, J. (2019). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections. R package version 0.3.5. Retrieved from https://CRAN.R-project.org/package=clubSandwich 
-* R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/. 
+* R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/
 * StataCorp (2019). Stata Statistical Software: Release 16. College Station, TX: StataCorp LLC.
 * Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of
   Statistical Software, 36(3), 1-48. URL: http://www.jstatsoft.org/v36/i03/
