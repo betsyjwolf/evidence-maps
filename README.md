@@ -5,6 +5,10 @@ This repository provides open access to data analyzed in the paper, "Making sens
 
 One challenge in understanding “what works” in education is that effect sizes may not be comparable across studies, which presents a problem for practitioners and policymakers who are trying to use research to select educational interventions. One factor that consistently relates to the magnitude of effect sizes is the type of outcome measure. This paper uses study data from the What Works Clearinghouse to examine differences in average effect sizes by outcome measure type. Using advanced meta-analysis and controlling for study quality and implementation, average effect sizes identified on researcher and developer measures are substantially larger than those identified on independent measures not related to the study authors or intervention developers. This study Results call into question conventional theories about why effect sizes are larger on researcher and developer measures. The study concludes that outcome measure type cannot be ignored in making sense about education interventions.
 
+## Graph
+
+If a picture says a thousand words, this is the take-home graph:
+
 ## Data
 
 The open access dataset can be found below:
