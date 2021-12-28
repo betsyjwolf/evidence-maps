@@ -21,8 +21,8 @@ Wolf, R., & Harbatkin, E. (under review). Making sense of effect sizes: Systemat
 ## Authors
 
 Wolf is a Research Scientist at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
-Harbatkin is a Postdoctoral Research Fellow at [Michigan State University] (https://education.msu.edu/people/harbatkin-erica/).
-Both authors like cats.
+Harbatkin is a Postdoctoral Research Fellow at Michigan State University (https://education.msu.edu/people/harbatkin-erica/).
+Both authors have cats.
 
 ## Programs and Packages Used in this Project
 
