@@ -7,14 +7,14 @@ One challenge in understanding “what works” in education is that effect size
 
 ## Graph
 
-If a picture says a thousand words, this is the take-home graph. 
+If a picture says a thousand words, this is the take-home graph:
 - Title: Distributions of the empirical Bayes effect size predictions by topic area and outcome measure type
 
 ## Data
 
 The open access dataset can be found below:
 
-- [Data]
+- [Data](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta_v2.csv)
 
 
 ## License to Use These Data
