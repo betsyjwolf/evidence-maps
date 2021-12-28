@@ -30,6 +30,7 @@ Both authors have cats.
 
 ## Programs and Packages Used in this Project
 
+* Coburn, K., & Vevea, J. (2019). weightr: Estimating weight-function models for publication bias. R package version 2.0.2. Retrieved from https://CRAN.R-project.org/package=weightr
 * H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
 * James Pustejovsky (2019). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with
   Small-Sample Corrections. R package version 0.3.5.
