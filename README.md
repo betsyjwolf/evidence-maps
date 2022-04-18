@@ -13,9 +13,10 @@ If a picture says a thousand words, this is the take-home graph:
 
 ## Data
 
-The open access dataset can be found below:
+The open access dataset and the codebook can be found below:
 
 - [Data](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta_v2.csv)
+- [Codebook](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta_v2_codebook.xlsx)
 
 
 ## License to Use These Data
