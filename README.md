@@ -9,7 +9,7 @@ The What Works Clearinghouse at the Institute of Education Sciences reviews rigo
 
 The open access dataset and the codebook can be found below:
 
-- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_gap.csv)
+- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_map.csv)
 
 ## License to Use These Data
 
