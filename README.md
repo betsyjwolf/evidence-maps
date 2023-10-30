@@ -27,7 +27,7 @@ Wolf, B. (under review). What works for whom: Evidence maps of study data in the
 
 ## Authors
 
-Wolf is a Research Scientist at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
+Wolf is a Education Research Analyst at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
 
 ## Programs and Packages Used in this Project
 
