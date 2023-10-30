@@ -5,19 +5,11 @@ This repository provides open access to data analyzed in the paper, "What works 
 
 The What Works Clearinghouse at the Institute of Education Sciences reviews rigorous research on educational practices, policies, programs, and products with a goal of identifying “what works” and making that information accessible to educators. One critique of the WWC is the need to more closely examine ‘what works’ for whom, in which settings, and for which outcomes. The purpose of this white paper is to map the What Works Clearinghouse study data to describe the evidence base across different student populations, settings, and outcomes. Findings highlight areas for which there is much evidence, as well as areas where more high-quality research is needed. Findings also suggest that the evidence on ‘what works’ depends on the outcomes  and student samples included in the studies.
 
-## Graph
-
-If a picture says a thousand words, this is the take-home graph:
-- Title: Distributions of the empirical Bayes effect size predictions by topic area and outcome measure type
-![](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta2_v2.png)
-
 ## Data
 
 The open access dataset and the codebook can be found below:
 
-- [Data](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta_v2.csv)
-- [Codebook](https://github.com/betsyjwolf/Systematic-Differences-in-Intervention-Effect-Sizes-by-Outcome-Measure-Type/blob/master/wp_meta_v2_codebook.xlsx)
-
+- [Data](https://github.com/betsyjwolf/evidence-map/blob/master/evidence_gap.csv)
 
 ## License to Use These Data
 
