@@ -3,13 +3,13 @@ This repository provides open access to data analyzed in the paper, "What works 
 
 ## Abstract
 
-The What Works Clearinghouse at the Institute of Education Sciences reviews rigorous research on educational practices, policies, programs, and products with a goal of identifying “what works” and making that information accessible to educators. One critique of the WWC is the need to more closely examine ‘what works’ for whom, in which settings, and for which outcomes. The purpose of this white paper is to map the What Works Clearinghouse study data to describe the evidence base across different student populations, settings, and outcomes. Findings highlight areas for which there is much evidence, as well as areas where more high-quality research is needed. Findings also suggest that the evidence on ‘what works’ depends on the outcomes  and student samples included in the studies.
+The What Works Clearinghouse at the Institute of Education Sciences reviews rigorous research on educational practices, policies, programs, and products with a goal of identifying “what works” and making that information accessible to the public. One critique of the WWC is the need to more closely examine ‘what works’ for whom, in which settings, and for which outcomes. The purpose of this white paper is to map the What Works Clearinghouse study data to describe the evidence base across different student populations, settings, and outcomes. Findings show that the WWC study data include a broad range of settings, populations, and outcomes, yet include relatively few studies focused on specific student subgroups. The WWC study data also include a broad range of educationally-relevant outcomes, but would benefit from more evidence in some outcomes and a greater breadth of evidence for some subgroups. Findings also suggest that ‘what worked’, or the extent to which studies found favorable results, meaningfully depended on the outcomes included in the studies. These findings have implications for researchers, funders of research, and the WWC. 
 
 ## Data
 
 The open access dataset and the codebook can be found below:
 
-- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_map.csv)
+- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_map_v2.csv)
 
 ## License to Use These Data
 
@@ -25,7 +25,7 @@ Wolf is a Education Research Analyst at the [What Works Clearinghouse](https://i
 
 * R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/
 * StataCorp (2019). Stata Statistical Software: Release 16. College Station, TX: StataCorp LLC.
- * Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag, New York. 
+* Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag, New York. 
   
 
 
