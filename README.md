@@ -10,7 +10,7 @@ The What Works Clearinghouse (WWC) at the Institute of Education Sciences review
 
 The data can be found below:
 
-- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_map_v2.csv)
+- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_gap_v3.csv)
 
 ## License to Use These Data
 
