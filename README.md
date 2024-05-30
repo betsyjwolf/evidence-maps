@@ -18,6 +18,10 @@ This work was commissioned by the WWC to both inform and promote discussion abou
 
 Wolf, B. (under review). hat works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data.
 
+## Supplemental Materials
+
+The online technical appendix can be found [here](https://docs.google.com/document/d/1oTBPbfP5gTf5RQVhS7dd1hgft03bkC9I/edit?usp=sharing&ouid=110249661442452761161&rtpof=true&sd=true).
+
 ## Authors
 
 Wolf is a Education Research Analyst at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/).
