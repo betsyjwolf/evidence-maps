@@ -1,6 +1,7 @@
 # What works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data
 
-This repository provides open access to data and materials from the paper (in press).
+This repository provides open access to data and materials from the paper:
+Wolf, B. (in press). hat works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data. Journal of Research on Educational Effectiveness.
 
 ## Abstract
 
