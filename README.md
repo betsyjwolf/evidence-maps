@@ -1,7 +1,8 @@
 # What works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data
 
 This repository provides open access to data and materials from the paper:
-Wolf, B. (in press). hat works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data. Journal of Research on Educational Effectiveness.
+
+Wolf, B. (in press). What works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data. Journal of Research on Educational Effectiveness.
 
 ## Abstract
 
@@ -17,7 +18,7 @@ The data can be found below:
 
 This work was commissioned by the WWC to both inform and promote discussion about the WWC. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
 
-Wolf, B. (in press). hat works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data. Journal of Research on Educational Effectiveness. 
+Wolf, B. (in press). What works for whom: Exploring the students, settings, and outcomes in What Works Clearinghouse study data. Journal of Research on Educational Effectiveness. 
 
 ## Supplemental Materials
 
