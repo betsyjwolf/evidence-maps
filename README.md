@@ -16,7 +16,7 @@ The data can be found below:
 
 And the codebook can be found below:
 
-- [Codebook](https://github.com/betsyjwolf/evidence-maps/blob/master/codebook for evidence_gap_v3.csv)
+- [Codebook](https://github.com/betsyjwolf/evidence-maps/blob/master/codebook for evidence_gap_v3.csv).
 
 But most of the variables come directly from the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/studyfindings). 
 
