@@ -14,6 +14,12 @@ The data can be found below:
 
 - [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/evidence_gap_v3.csv)
 
+And the codebook can be found below:
+
+- [Data](https://github.com/betsyjwolf/evidence-maps/blob/master/codebook for evidence_gap_v3.csv)
+
+But most of the variables come directly from the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/studyfindings). 
+
 ## License to Use These Data
 
 This work was commissioned by the WWC to both inform and promote discussion about the WWC. This work was created as part of the Contributor’s official duties as an Employee of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
