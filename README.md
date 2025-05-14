@@ -28,7 +28,7 @@ This work was commissioned by the WWC to both inform and promote discussion abou
 
 ## Supplemental Materials
 
-The online technical appendix can be found [here](https://github.com/betsyjwolf/evidence-maps/blob/master/online technical appendix v4.docx].
+The online technical appendix can be found [here](https://github.com/betsyjwolf/evidence-maps/blob/master/Online technical appendix_v4.docx).
 
 ## Authors
 
